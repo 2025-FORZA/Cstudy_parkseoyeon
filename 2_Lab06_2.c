@@ -14,4 +14,4 @@ int main() {
 
 	printf("%d", L-max);
 	return 0;
-}
+} 
